@@ -59,3 +59,12 @@ jobs:
       with:
         arguments: bootBuildImage
         
+  deployment:
+    runs-on: self-hosted
+    
+    steps:
+    - uses: actions/checkout@3
+    - name: Deploy yo local minikube
+      run:
+        kube apply -f src/main/resource/k8s/hello-deploy-cicd.yml
+        
