@@ -1,0 +1,1 @@
+C:\Users\ghjh0\Documents\Project\build-image-tutorial\build-image-tutorial\build\classes\java\main\io\wisoft\buildimagetutorial\BuildImageTutorialApplication.class

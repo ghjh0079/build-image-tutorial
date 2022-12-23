@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "SO-NOTE",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/uIfplFEtzhSfRYm5Qk6rVTRvemAvAf7Nqg9SNVZhemL05YlcqV",
+  "gitHubUrl": "https://github.com/ghjh0079/build-image-tutorial",
+  "workFolder": "_work"
+}
